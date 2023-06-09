@@ -5,3 +5,5 @@ Loads checkpoint by local backend from path: exp/epoch_41.pth
 测试结果为：92%
 权重文件在百度网盘，链接：https://pan.baidu.com/s/1kfNOREWEmD8KAV4002H7bw?pwd=avvu 
 提取码：avvu
+resnet50.py为模型配置文件
+split_data.py为数据集切分文件
