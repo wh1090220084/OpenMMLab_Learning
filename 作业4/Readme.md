@@ -293,7 +293,8 @@ plt.imshow(mmcv.bgr2rgb(visualization))
 plt.show()
 
 ```
-
+权重文件链接：https://pan.baidu.com/s/1Bkc17LvRO7BpKNYrKRz6vg?pwd=zlht 
+提取码：zlht
 # 2.测试集评估指标
 
 ```python
