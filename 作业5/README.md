@@ -51,3 +51,5 @@ plt.show()
 # 生成装修效果图
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/feff644af3a84608b16727d4090964e8.png)
+# 最终效果图
+![在这里插入图片描述](https://img-blog.csdnimg.cn/168d4ffede294b9eb993606a407313d3.png)
